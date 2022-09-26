@@ -1,0 +1,7 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+Printf" Testing Clone command";
+return 0;
+}
